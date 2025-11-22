@@ -36,3 +36,13 @@ https://github.com/theammars/open5gs-exp-with_kubernetes.git
 - Menyesuaikan konfigurasi PLMN ID di AMF menjadi 001/01 agar sesuai dengan UE. Mengubah data di Database MongoDB dengan set access_restriction_data: 0 (Allow All). Melakukan Restart Pod AMF dan UDM untuk membersihkan cache data lama.
 
 ### Screenshoot
+https://github.com/theammars/open5gs-exp-with_kubernetes/blob/main/Documentation/getnodes.png?raw=true
+https://github.com/theammars/open5gs-exp-with_kubernetes/blob/main/Documentation/getpods.png?raw=true
+https://github.com/theammars/open5gs-exp-with_kubernetes/blob/main/Documentation/getsvc.png?raw=true
+https://github.com/theammars/open5gs-exp-with_kubernetes/blob/main/Documentation/gnbregis.png?raw=true
+https://github.com/theammars/open5gs-exp-with_kubernetes/blob/main/Documentation/ueregis.png?raw=true
+https://github.com/theammars/open5gs-exp-with_kubernetes/blob/main/Documentation/addrshow.png?raw=true  
+https://github.com/theammars/open5gs-exp-with_kubernetes/blob/main/Documentation/pinguesimtun0_10.45.png?raw=true
+https://github.com/theammars/open5gs-exp-with_kubernetes/blob/main/Documentation/pinguesimtun0_10.45.png?raw=true
+https://github.com/theammars/open5gs-exp-with_kubernetes/blob/main/Documentation/nslookup%20goggle.png?raw=true
+https://github.com/theammars/open5gs-exp-with_kubernetes/blob/main/Documentation/curluesimtun0google.png?raw=true
